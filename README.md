@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://backend-teashop-prasanna.herokuapp.com/) here!
 1. Git Clone
 
 ```
-git clone https://github.com/shivaganeshtechis/Electric-Views
+git clone https://github.com/prasannaakash29/TR-Tea-Shop.git
 ```
 
 2. Backend setting
